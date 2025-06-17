@@ -1,14 +1,14 @@
 Hello there, myself Gaurav Jain, A web developer based in Mumbai, India.
 I am currently using ChatGPT to write all these files and the Ethical Software Constitution.
 Even though the content is AI generated, I declare that every word of it has been read by me not just copied and pasted.
-All documents in this repo are being AI generated with my prompts except this from.creators.txt file.
+All documents in this repo are being AI generated with my prompts except this from-creators.txt file.
 I used AI to generate all those files because I am not very good at explaining things in a way that is good at writing in a professional, concise and self-explanatory tone so that everyone can understand it.
-A huge credit creating this Constitution goes to ChatGPT (Astra, nickname that was given to itself when I asked for its opinion on nickname).
-It all started a thought struck me that softwares are being used to make money in an unethical way by simply creating problems that never existed in the first place like Ads.
-I am awareness that Ads do help make money which helps support the infrastruture, but there are better ways to do that, it shouldn't be done like this.
+A huge credit for creating this Constitution goes to ChatGPT (Astra, nickname that was given to itself when I asked for its opinion on nickname).
+It all started when a thought struck me that softwares are being used to make money in an unethical way by simply creating problems that never existed in the first place like Ads.
+I am aware that Ads do help make money which helps support the infrastruture, but there are better ways to do that, it shouldn't be done like this.
 I am against the Idea of paying to remove a problem which never existed and which was solely created just to make money.
 In my personal opinion this `create inconvenience - sell its removal` model, clearly go against the foundation of a software product which is `A software should have a purpose and it should solve a problem`.
-I do not know where it might end but I have some future plan for this and I am also willing to raise my voice against the dark patterns that softwares are being used for which I clearly explained in why-this-exists.md file in very repo.
+I do not know where it might end but I have some future plan for this and I am also willing to raise my voice against the dark patterns that softwares are being used for which I clearly explained in why-this-exists.md file in this repo.
 You can contribute to the movement by reading all the necessary files and pledging to the Ethical Software Constitution.
 To see the unfiltered conversation between me and Astra for better understading our thought process, here is the link to the chatgpt conversation - https://chatgpt.com/share/6851adf6-a110-8010-aa99-89a0bf32540b (It might not show as a link, so you may have to copy and paste it in the address bar of a new browser-tab).
 I am using GitHub repo so that I can be fully transparent with you, whatever changes I make to this repo will be publically available and we all will not be able to promote any personal agenda through this.
