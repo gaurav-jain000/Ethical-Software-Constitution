@@ -25,7 +25,7 @@ There are two ways you can join:
 ### 📝 Option 1: Add Your Name via Pull Request  
 
 1. **Fork this repository**.
-2. Open the file: `pledges/pledge.json`.
+2. Open the file: `pledge.json`.
 3. Add your details at the end in the following format:
 
     ```json
